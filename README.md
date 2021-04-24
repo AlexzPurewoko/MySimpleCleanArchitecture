@@ -1,3 +1,10 @@
 # MySimpleCleanArchitecture
 [![AlexzPurewoko](https://circleci.com/gh/AlexzPurewoko/MySimpleCleanArchitecture.svg?style=shield)](https://circleci.com/gh/AlexzPurewoko/MySimpleCleanArchitecture)
 [![codecov](https://codecov.io/gh/AlexzPurewoko/MySimpleCleanArchitecture/branch/master/graph/badge.svg?token=536NTAISBF)](https://codecov.io/gh/AlexzPurewoko/MySimpleCleanArchitecture)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=AlexzPurewoko_MySimpleCleanArchitecture&metric=bugs)](https://sonarcloud.io/dashboard?id=AlexzPurewoko_MySimpleCleanArchitecture)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=AlexzPurewoko_MySimpleCleanArchitecture&metric=code_smells)](https://sonarcloud.io/dashboard?id=AlexzPurewoko_MySimpleCleanArchitecture)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=AlexzPurewoko_MySimpleCleanArchitecture&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=AlexzPurewoko_MySimpleCleanArchitecture)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=AlexzPurewoko_MySimpleCleanArchitecture&metric=alert_status)](https://sonarcloud.io/dashboard?id=AlexzPurewoko_MySimpleCleanArchitecture)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=AlexzPurewoko_MySimpleCleanArchitecture&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=AlexzPurewoko_MySimpleCleanArchitecture)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=AlexzPurewoko_MySimpleCleanArchitecture&metric=security_rating)](https://sonarcloud.io/dashboard?id=AlexzPurewoko_MySimpleCleanArchitecture)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=AlexzPurewoko_MySimpleCleanArchitecture&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=AlexzPurewoko_MySimpleCleanArchitecture)
